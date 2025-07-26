@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "chanfana-openapi-template",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "db-uplodia",
+      "database_id": "9c14f932-6730-4bdc-a414-f0dd56ccff33"
+    }
+  ]
+}
